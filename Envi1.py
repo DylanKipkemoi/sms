@@ -1,11 +1,11 @@
-# add4dd431368dc4fea16c9fea42b39d47cbd3d0a579433aed63f1d053f
+# add4dd43.......my private api key......
 
 # Import the helper gateway class
 from AfricasTalkingGateway import AfricasTalkingGateway, AfricasTalkingGatewayException
 
 # Specify your login credentials
 username = "EnviExperts"
-apikey = "add4dd431368dc4fea16c9fea42b39d47cbd3d0a579433aed63f1d053f"
+apikey = "add4dd43.......my private api key......"
 # Specify the numbers that you want to send to in a comma-separated list
 # Please ensure you include the country code (+254 for Kenya)
 to = "+254704251165,+254716307755"
